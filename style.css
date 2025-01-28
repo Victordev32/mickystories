@@ -53,7 +53,7 @@ header span{
 
 #home{
   
-  background: url('../book.jpg');
+  background: url('book.jpg');
   background-position: center;
   background-size: cover;
  display: flex;
@@ -167,7 +167,7 @@ header span{
   margin-left:50px;
 }
 #contact{
-  background-image: url('../bg2.jpg');
+  background-image: url('bg2.jpg');
   background-position: center;
   background-size: cover;
   
